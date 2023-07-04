@@ -1,3 +1,6 @@
+// This code has not been professionally audited, therefore I cannot make any promises about
+// safety or correctness. Use at own risk.
+
 /**
  * @title AccessRestriction
  * @dev This contract demonstrates how to use access restriction modifiers in Solidity.
